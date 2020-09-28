@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report DirectoryC:\BATCH-OF-2020\SeleniumAutomationPractice\SampleWebsiteAPractice\target\surefire-reports\html]]>
+    </line>
+    <line>
+      <![CDATA[Page Title : Welcome to the-internet]]>
+    </line>
+    <line>
+      <![CDATA[When clicking check button it will show check : checked]]>
+    </line>
+    <line>
+      <![CDATA[It will give the Location : http://the-internet.herokuapp.com/basic_auth]]>
+    </line>
+  </reporter-output>
+  <suite name="Automation Test" duration-ms="70300" started-at="2020-09-28T15:20:56Z" finished-at="2020-09-28T15:22:06Z">
+    <groups>
+    </groups>
+    <test name="Ecommerce Home" duration-ms="70300" started-at="2020-09-28T15:20:56Z" finished-at="2020-09-28T15:22:06Z">
+      <class name="page_objects_test.HomePageTest">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:page_objects_test.HomePageTest@5ae9a829]" name="extentSetup" is-config="true" duration-ms="217" started-at="2020-09-28T11:20:56Z" finished-at="2020-09-28T11:20:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@f0e995e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report DirectoryC:\BATCH-OF-2020\SeleniumAutomationPractice\SampleWebsiteAPractice\target\surefire-reports\html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:page_objects_test.HomePageTest@5ae9a829]" name="setUp" is-config="true" duration-ms="12943" started-at="2020-09-28T11:20:56Z" finished-at="2020-09-28T11:21:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:page_objects_test.HomePageTest@5ae9a829]" name="startExtent" is-config="true" duration-ms="20" started-at="2020-09-28T11:21:09Z" finished-at="2020-09-28T11:21:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void page_objects_test.HomePageTest.testPagetitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initializeElements()[pri:0, instance:page_objects_test.HomePageTest@5ae9a829]" name="initializeElements" is-config="true" duration-ms="92" started-at="2020-09-28T11:21:09Z" finished-at="2020-09-28T11:21:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeElements -->
+        <test-method status="PASS" signature="testPagetitle()[pri:0, instance:page_objects_test.HomePageTest@5ae9a829]" name="testPagetitle" duration-ms="406" started-at="2020-09-28T11:21:09Z" finished-at="2020-09-28T11:21:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Page Title : Welcome to the-internet]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPagetitle -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:page_objects_test.HomePageTest@5ae9a829]" name="afterEachTestMethod" is-config="true" duration-ms="12382" started-at="2020-09-28T11:21:09Z" finished-at="2020-09-28T11:21:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPagetitle status=SUCCESS method=HomePageTest.testPagetitle()[pri:0, instance:page_objects_test.HomePageTest@5ae9a829] output=Page Title : Welcome to the-internet]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:page_objects_test.HomePageTest@5ae9a829]" name="cleanUp" is-config="true" duration-ms="0" started-at="2020-09-28T11:21:22Z" finished-at="2020-09-28T11:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:page_objects_test.HomePageTest@5ae9a829]" name="generateReport" is-config="true" duration-ms="94" started-at="2020-09-28T11:22:06Z" finished-at="2020-09-28T11:22:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- page_objects_test.HomePageTest -->
+      <class name="page_objects_test.CheckBoxPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:page_objects_test.CheckBoxPageTest@6d8a00e3]" name="setUp" is-config="true" duration-ms="7884" started-at="2020-09-28T11:21:22Z" finished-at="2020-09-28T11:21:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="initializeElements()[pri:0, instance:page_objects_test.CheckBoxPageTest@6d8a00e3]" name="initializeElements" is-config="true" duration-ms="1" started-at="2020-09-28T11:21:30Z" finished-at="2020-09-28T11:21:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeElements -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:page_objects_test.CheckBoxPageTest@6d8a00e3]" name="startExtent" is-config="true" duration-ms="0" started-at="2020-09-28T11:21:30Z" finished-at="2020-09-28T11:21:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void page_objects_test.CheckBoxPageTest.testCheckboxButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="testCheckboxButton()[pri:0, instance:page_objects_test.CheckBoxPageTest@6d8a00e3]" name="testCheckboxButton" duration-ms="1527" started-at="2020-09-28T11:21:30Z" finished-at="2020-09-28T11:21:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[When clicking check button it will show check : checked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCheckboxButton -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:page_objects_test.CheckBoxPageTest@6d8a00e3]" name="afterEachTestMethod" is-config="true" duration-ms="3888" started-at="2020-09-28T11:21:31Z" finished-at="2020-09-28T11:21:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCheckboxButton status=SUCCESS method=CheckBoxPageTest.testCheckboxButton()[pri:0, instance:page_objects_test.CheckBoxPageTest@6d8a00e3] output=When clicking check button it will show check : checked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:page_objects_test.CheckBoxPageTest@6d8a00e3]" name="cleanUp" is-config="true" duration-ms="2" started-at="2020-09-28T11:21:35Z" finished-at="2020-09-28T11:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- page_objects_test.CheckBoxPageTest -->
+      <class name="page_objects_test.BasicAuthPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:page_objects_test.BasicAuthPageTest@548b7f67]" name="setUp" is-config="true" duration-ms="22731" started-at="2020-09-28T11:21:35Z" finished-at="2020-09-28T11:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="initializedElements()[pri:0, instance:page_objects_test.BasicAuthPageTest@548b7f67]" name="initializedElements" is-config="true" duration-ms="5" started-at="2020-09-28T11:21:58Z" finished-at="2020-09-28T11:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializedElements -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:page_objects_test.BasicAuthPageTest@548b7f67]" name="startExtent" is-config="true" duration-ms="0" started-at="2020-09-28T11:21:58Z" finished-at="2020-09-28T11:21:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void page_objects_test.BasicAuthPageTest.testbasicAuthButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="testbasicAuthButton()[pri:0, instance:page_objects_test.BasicAuthPageTest@548b7f67]" name="testbasicAuthButton" duration-ms="867" started-at="2020-09-28T11:21:58Z" finished-at="2020-09-28T11:21:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[It will give the Location : http://the-internet.herokuapp.com/basic_auth]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testbasicAuthButton -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:page_objects_test.BasicAuthPageTest@548b7f67]" name="afterEachTestMethod" is-config="true" duration-ms="7525" started-at="2020-09-28T11:21:59Z" finished-at="2020-09-28T11:22:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testbasicAuthButton status=SUCCESS method=BasicAuthPageTest.testbasicAuthButton()[pri:0, instance:page_objects_test.BasicAuthPageTest@548b7f67] output=It will give the Location : http://the-internet.herokuapp.com/basic_auth]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:page_objects_test.BasicAuthPageTest@548b7f67]" name="cleanUp" is-config="true" duration-ms="1" started-at="2020-09-28T11:22:06Z" finished-at="2020-09-28T11:22:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- page_objects_test.BasicAuthPageTest -->
+    </test> <!-- Ecommerce Home -->
+  </suite> <!-- Automation Test -->
+</testng-results>

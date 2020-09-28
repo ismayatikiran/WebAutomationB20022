@@ -6,9 +6,11 @@
     <test name = "Ecommerce Home">
 
         <classes>
-            <class name="page_objects_test.HomePageTest"/>
-            <class name="page_objects_test.CheckBoxPageTest"/>
-            <class name="page_objects_test.BasicAuthPageTest"/>
+            <!--<class name="page_objects_test.HomePageTest"/>-->
+            <!--<class name="page_objects_test.CheckBoxPageTest"/>-->
+            <!--<class name="page_objects_test.BasicAuthPageTest"/>-->
+            <!--<class name="page_objects_test.FormAuthenticationPageTest"/>-->
+            <class name="page_objects_test.ForgetPasswordPageTest"/>
         </classes>
 
         <!--Hello-->

@@ -18,78 +18,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Data2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/junk/Data2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            <state relative-caret-position="144">
+              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utilities/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckBoxPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/CheckBoxPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasicAuthPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/BasicAuthPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasicAuthPageTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/BasicAuthPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SPAppRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="16" column="8" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormAuthenticationPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/FormAuthenticationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+              <folding>
+                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormAuthenticationPageTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/FormAuthenticationPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,12 +88,10 @@
         <option value="$PROJECT_DIR$/utilities/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/utilities/src/main/java/reporting/ApplicationLog.java" />
         <option value="$PROJECT_DIR$/utilities/src/main/java/reporting/TestLogger.java" />
-        <option value="$PROJECT_DIR$/utilities/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/resources/SWPracticeAppRunner.fxml" />
         <option value="$PROJECT_DIR$/utilities/pom.xml" />
         <option value="$PROJECT_DIR$/SampleWebsiteAPractice/pom.xml" />
-        <option value="$PROJECT_DIR$/utilities/src/main/java/browserdriver/BrowserDriver.java" />
         <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/DropDownPage.java" />
         <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/DropDownPageTest.java" />
         <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/HomePageTest.java" />
@@ -135,8 +102,18 @@
         <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/CheckBoxPageTest.java" />
         <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/BasicAuthPage.java" />
         <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/BasicAuthPageTest.java" />
-        <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/helper/ApplicationHelper.java" />
+        <option value="$PROJECT_DIR$/utilities/src/main/java/reporting/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/junk/Data.java" />
+        <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/ForgetPasswordPage.java" />
+        <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml" />
+        <option value="$PROJECT_DIR$/utilities/src/main/java/browserdriver/BrowserDriver.java" />
+        <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/ForgetPasswordPageTest.java" />
+        <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/junk/Data2.java" />
+        <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/FormAuthenticationPage.java" />
+        <option value="$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/FormAuthenticationPageTest.java" />
       </list>
     </option>
   </component>
@@ -253,12 +230,6 @@
               <item name="SeleniumAutomationPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumAutomationPractice" type="462c0819:PsiDirectoryNode" />
               <item name="SampleWebsiteAPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="SampleWebsiteAPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -284,23 +255,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="page_objects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="SampleWebsiteAPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="page_objects_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="SampleWebsiteAPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -332,13 +286,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/BATCH-OF-2020/SeleniumAutomationPractice/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml">
+  <component name="RunManager" selected="TestNG.FormAuthenticationPageTest.click">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Data2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="junk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="junk.Data2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SampleWebsiteAPractice" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -353,26 +326,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-    </configuration>
-    <configuration name="All in SampleWebsiteAPractice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="SampleWebsiteAPractice" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -401,38 +354,6 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="BasicAuthPageTest.testbasicAuthButton" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="page_objects_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="SampleWebsiteAPractice" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="page_objects_test" />
-      <option name="MAIN_CLASS_NAME" value="page_objects_test.BasicAuthPageTest" />
-      <option name="METHOD_NAME" value="testbasicAuthButton" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="C:/BATCH-OF-2020/SeleniumAutomationPractice/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="SampleWebsiteAPractice" />
@@ -460,7 +381,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="CheckBoxPageTest.testCheckboxButton" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ForgetPasswordPageTest.testWriteEmailValue" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="page_objects_test.*" />
@@ -472,8 +393,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="page_objects_test" />
-      <option name="MAIN_CLASS_NAME" value="page_objects_test.CheckBoxPageTest" />
-      <option name="METHOD_NAME" value="testCheckboxButton" />
+      <option name="MAIN_CLASS_NAME" value="page_objects_test.ForgetPasswordPageTest" />
+      <option name="METHOD_NAME" value="testWriteEmailValue" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -492,7 +413,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="HomePageTest.testPagetitle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FormAuthenticationPageTest.click" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="page_objects_test.*" />
@@ -504,8 +425,40 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="page_objects_test" />
-      <option name="MAIN_CLASS_NAME" value="page_objects_test.HomePageTest" />
-      <option name="METHOD_NAME" value="testPagetitle" />
+      <option name="MAIN_CLASS_NAME" value="page_objects_test.FormAuthenticationPageTest" />
+      <option name="METHOD_NAME" value="click" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="FormAuthenticationPageTest.testFormauthentication" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="page_objects_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SampleWebsiteAPractice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="page_objects_test" />
+      <option name="MAIN_CLASS_NAME" value="page_objects_test.FormAuthenticationPageTest" />
+      <option name="METHOD_NAME" value="testFormauthentication" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -558,19 +511,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.HomePageTest.testPagetitle" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/BATCH-OF-2020/SeleniumAutomationPractice/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.CheckBoxPageTest.testCheckboxButton" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.BasicAuthPageTest.testbasicAuthButton" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.All in SampleWebsiteAPractice" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.FormAuthenticationPageTest.testFormauthentication" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Data2" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.ForgetPasswordPageTest.testWriteEmailValue" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/BATCH-OF-2020/SeleniumAutomationPractice/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.FormAuthenticationPageTest.click" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/BATCH-OF-2020/SeleniumAutomationPractice/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.All in SampleWebsiteAPractice" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.BasicAuthPageTest.testbasicAuthButton" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.CheckBoxPageTest.testCheckboxButton" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.HomePageTest.testPagetitle" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.FormAuthenticationPageTest.click" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.FormAuthenticationPageTest.testFormauthentication" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.ForgetPasswordPageTest.testWriteEmailValue" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/BATCH-OF-2020/SeleniumAutomationPractice/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Data2" />
       </list>
     </recent_temporary>
   </component>
@@ -591,35 +544,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_SampleWebsiteAPractice - 2020.09.26 at 17h 23m 09s.xml">
-      <configuration name="All in SampleWebsiteAPractice" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_SampleWebsiteAPractice - 2020.09.26 at 17h 24m 27s.xml">
-      <configuration name="All in SampleWebsiteAPractice" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_SampleWebsiteAPractice - 2020.09.26 at 17h 25m 26s.xml">
-      <configuration name="All in SampleWebsiteAPractice" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicAuthPageTest_testbasicAuthButton - 2020.09.26 at 17h 11m 55s.xml">
-      <configuration name="BasicAuthPageTest.testbasicAuthButton" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAuthPageTest_testbasicAuthButton - 2020.09.26 at 17h 15m 02s.xml">
-      <configuration name="BasicAuthPageTest.testbasicAuthButton" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAuthPageTest_testbasicAuthButton - 2020.09.26 at 17h 17m 23s.xml">
-      <configuration name="BasicAuthPageTest.testbasicAuthButton" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAuthPageTest_testbasicAuthButton - 2020.09.26 at 17h 20m 47s.xml">
-      <configuration name="BasicAuthPageTest.testbasicAuthButton" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAuthPageTest_testbasicAuthButton - 2020.09.26 at 17h 22m 57s.xml">
-      <configuration name="BasicAuthPageTest.testbasicAuthButton" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__BATCH-OF-2020_SeleniumAutomationPractice_SampleWebsiteAPractice_src_test_resources_SPAppRunner_xml - 2020.09.26 at 17h 29m 14s.xml">
+    <history-entry file="C__BATCH-OF-2020_SeleniumAutomationPractice_SampleWebsiteAPractice_src_test_resources_SPAppRunner_xml - 2020.09.28 at 14h 18m 20s.xml">
       <configuration name="C:/BATCH-OF-2020/SeleniumAutomationPractice/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckBoxPageTest_testCheckboxButton - 2020.09.26 at 16h 59m 21s.xml">
-      <configuration name="CheckBoxPageTest.testCheckboxButton" configurationId="TestNG" />
+    <history-entry file="ForgetPasswordPageTest_testWriteEmailValue - 2020.09.28 at 14h 20m 01s.xml">
+      <configuration name="ForgetPasswordPageTest.testWriteEmailValue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ForgetPasswordPageTest_testWriteEmailValue - 2020.09.28 at 14h 20m 19s.xml">
+      <configuration name="ForgetPasswordPageTest.testWriteEmailValue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ForgetPasswordPageTest_testWriteEmailValue - 2020.09.28 at 14h 21m 24s.xml">
+      <configuration name="ForgetPasswordPageTest.testWriteEmailValue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FormAuthenticationPageTest_click - 2020.09.28 at 14h 30m 57s.xml">
+      <configuration name="FormAuthenticationPageTest.click" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FormAuthenticationPageTest_click - 2020.09.28 at 14h 33m 33s.xml">
+      <configuration name="FormAuthenticationPageTest.click" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FormAuthenticationPageTest_click - 2020.09.28 at 14h 34m 49s.xml">
+      <configuration name="FormAuthenticationPageTest.click" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FormAuthenticationPageTest_testFormauthentication - 2020.09.28 at 14h 21m 06s.xml">
+      <configuration name="FormAuthenticationPageTest.testFormauthentication" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FormAuthenticationPageTest_testFormauthentication - 2020.09.28 at 14h 27m 39s.xml">
+      <configuration name="FormAuthenticationPageTest.testFormauthentication" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FormAuthenticationPageTest_testFormauthentication - 2020.09.28 at 14h 29m 56s.xml">
+      <configuration name="FormAuthenticationPageTest.testFormauthentication" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -633,19 +586,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2586" height="1386" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.50161815" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.001618123" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42386466" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4666073" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947463" sideWeight="0.49838188" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.49838188" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27791262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -723,44 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utilities/src/main/java/databse_utilities/DBUtilities.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -788,97 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/browserdriver/BrowserDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="39" column="98" lean-forward="false" selection-start-line="39" selection-start-column="98" selection-end-line="39" selection-end-column="98" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/DropDownPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/SampleWebsiteAPractice.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#431#432#0" expanded="false" />
-            <element signature="e#463#464#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/DropDownPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/HomePageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#476#477#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/CheckBoxPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/screenshots/testCheckboxButton (09.26.2020-16">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/CheckBoxPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -891,36 +716,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/BasicAuthPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/Extent-Report/ExtentReport.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3024">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -933,10 +732,227 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/helper/ApplicationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2009">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/DropDownPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/DropDownPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/SampleWebsiteAPractice.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="22" column="98" lean-forward="false" selection-start-line="22" selection-start-column="98" selection-end-line="22" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/BasicAuthPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/CheckBoxPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/BasicAuthPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
+        <state relative-caret-position="576">
           <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/Extent-Report/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18801">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1601318088735" expanded="true" signature="17882:17996" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/junk/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/report/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/resources/SPAppRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="76" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="11" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/screenshots/testCheckboxButton (09.26.2020-16">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/src/main/java/browserdriver/BrowserDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="103" column="134" lean-forward="false" selection-start-line="103" selection-start-column="134" selection-end-line="103" selection-end-column="134" />
+          <folding>
+            <element signature="e#4587#4588#0" expanded="true" />
+            <element signature="e#4617#4618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/ForgetPasswordPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/junk/Data2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/ForgetPasswordPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects/FormAuthenticationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+          <folding>
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleWebsiteAPractice/src/test/java/page_objects_test/FormAuthenticationPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

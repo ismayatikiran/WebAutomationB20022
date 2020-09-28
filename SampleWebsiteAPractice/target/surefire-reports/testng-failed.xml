@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Automation Test]">
+  <test name="Ecommerce Home(failed)">
+    <classes>
+      <class name="page_objects_test.HomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+          <include name="extentSetup"/>
+          <include name="generateReport"/>
+          <include name="initializeElements"/>
+          <include name="afterEachTestMethod"/>
+          <include name="testPagetitle"/>
+        </methods>
+      </class> <!-- page_objects_test.HomePageTest -->
+      <class name="page_objects_test.BasicAuthPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+          <include name="testbasicAuthButton"/>
+          <include name="extentSetup"/>
+          <include name="generateReport"/>
+          <include name="initializedElements"/>
+          <include name="afterEachTestMethod"/>
+        </methods>
+      </class> <!-- page_objects_test.BasicAuthPageTest -->
+      <class name="page_objects_test.CheckBoxPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+          <include name="extentSetup"/>
+          <include name="generateReport"/>
+          <include name="afterEachTestMethod"/>
+          <include name="initializeElements"/>
+          <include name="testCheckboxButton"/>
+        </methods>
+      </class> <!-- page_objects_test.CheckBoxPageTest -->
+    </classes>
+  </test> <!-- Ecommerce Home(failed) -->
+</suite> <!-- Failed suite [Automation Test] -->
