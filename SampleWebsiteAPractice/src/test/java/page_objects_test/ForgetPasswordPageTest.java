@@ -3,6 +3,7 @@ package page_objects_test;
 import browserdriver.BrowserDriver;
 import junk.Data2;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -22,10 +23,14 @@ public class ForgetPasswordPageTest extends BrowserDriver {
         return datavalue;
     }
 
-    @Test(dataProvider = "storedata")
+    @Test(dataProvider = "getData")
     public void testWriteEmailValue(String email) throws Exception {
+        forgetPasswordPage.clickonForgetPassword();
         forgetPasswordPage.writeEMailValue(email);
-        //Thread.sleep(3000);
+        forgetPasswordPage.submit();
+        String actualmessage = forgetPasswordPage.getPageMessage();
+        Assert.assertEquals(actualmessage,"Your e-mail's been sent!");
+        Thread.sleep(3000);
 
     }
 }

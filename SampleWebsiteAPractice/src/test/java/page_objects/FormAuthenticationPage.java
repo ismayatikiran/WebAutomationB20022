@@ -20,7 +20,7 @@ public class FormAuthenticationPage {
     @FindBy(how=How.XPATH,using = "//*[@id=\"login\"]/button/i")
     WebElement loginSubmitButton;
 
-    @FindBy(how=How.CLASS_NAME,using = "flash error")
+    @FindBy(how=How.CSS,using = "#flash")
     WebElement errorMessage;
 
     @FindBy(how=How.CSS,using = "#content > ul > li:nth-child(21) > a")
